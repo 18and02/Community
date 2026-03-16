@@ -2,7 +2,7 @@
 
 一个优雅的社群分享平台，灵感源自小红书，让用户可以通过图文帖子分享生活、发现灵感、互动交流。
 
-![Community 首页预览](https://d2xsxph8kpxj0f.cloudfront.net/310519663283085174/GJx6GEXgNVdeSYzcnkDLAv/community-preview_bd7f32ca.png)
+![Community 首页预览]([https://d2xsxph8kpxj0f.cloudfront.net/310519663283085174/GJx6GEXgNVdeSYzcnkDLAv/community-preview_bd7f32ca.png](https://img.pandapt.net/i/2026/03/16/YVVOY.png))
 
 ---
 
